@@ -4,7 +4,7 @@
 2-Creating a virtual environment:
 	py -3.11 -m venv myven
 	*** to active virtual environment use this:
-		virtual environment
+		.\myenv\Scripts\activate
 
 3-install pip:
 	py -m ensurepip --upgrade
@@ -21,3 +21,4 @@
 6-install autopy:
 	pip install autopy
 
+![hand_tracking_3d_android_gpu](https://github.com/user-attachments/assets/dfa82675-66ae-47b4-8728-b2a5d141e1ce)
