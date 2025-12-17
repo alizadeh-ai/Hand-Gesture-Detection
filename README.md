@@ -19,6 +19,6 @@
 	https://chuoling.github.io/mediapipe/
 
 6-install autopy:
-	pip install autopy
+	pip install autopy 
 
 ![hand_tracking_3d_android_gpu](https://github.com/user-attachments/assets/dfa82675-66ae-47b4-8728-b2a5d141e1ce)
