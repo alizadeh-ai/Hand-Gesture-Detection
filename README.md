@@ -2,7 +2,7 @@
 	https://www.python.org/downloads/release/python-3110/
 
 2-Creating a virtual environment:
-	py -3.11 -m venv myven
+	py -3.11 -m venv myenv
 	*** to active virtual environment use this:
 		.\myenv\Scripts\activate
 
