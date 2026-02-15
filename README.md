@@ -1,3 +1,8 @@
+## Legacy Version (v1.0)
+
+Uses mediapipe.solutions (<=0.9.x)
+
+
 1-install Python 3.11 from =>
 	https://www.python.org/downloads/release/python-3110/
 
